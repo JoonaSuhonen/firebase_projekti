@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148627359453",
+    "project_id": "firestoreprojekti",
+    "storage_bucket": "firestoreprojekti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148627359453:android:dc3fa6d5343eab4f52bd34",
+        "android_client_info": {
+          "package_name": "testi.firestoreprojekti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148627359453-alki0nohlhgqcg5mfj3t1bprd1v250ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwI0KRlymzw6l_-UMsQOYRHgNqFPcH9_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148627359453-alki0nohlhgqcg5mfj3t1bprd1v250ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

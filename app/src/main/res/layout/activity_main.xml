@@ -48,4 +48,15 @@
         android:text="Send it to Firestore"
         android:textAllCaps="false" />
 
+    <Button
+        android:id="@+id/loadButton"
+        android:layout_width="360dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="315dp"
+        android:background="@drawable/button_background"
+        android:text="Fetch from Firestore"
+        android:textAllCaps="false" />
+
 </RelativeLayout>

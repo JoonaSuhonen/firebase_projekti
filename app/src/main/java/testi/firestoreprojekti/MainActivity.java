@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private CollectionReference mCollection;
 
 
-//https://www.youtube.com/watch?v=CQ5qcJetYAI Tässä linkki miten lisätä kuvia, kun sen aika on
+//https://www.youtube.com/watch?v=CQ5qcJetYAI Tässä linkki videoon miten lisätä kuvia
 
 
     @Override
